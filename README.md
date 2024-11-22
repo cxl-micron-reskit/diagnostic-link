@@ -1,2 +1,2 @@
-# diagnostic-link
+# diagnosticlink
 DiagnosticLink
